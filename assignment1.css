@@ -11,7 +11,7 @@ body{
 }
 .width-measurement{
     width: 50%;
-    padding: 5%;
+    padding: 10%;
 }
 .width-measurement img{
     width: 90%;
@@ -29,4 +29,43 @@ h1{
 }
 h3{
     font-size: 20px;
+}
+h2{
+    font-size: 30px;
+}
+.shape{
+    background-image: url(Frame.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.mid{
+    text-align: center;
+}
+.new-class-for-third-section{
+    width: 33%;
+    padding: 5%;
+
+
+}
+.new-class-for-third-section img{
+    width: 90%;
+}
+.weight{
+    font-weight: 600;
+}
+.border-makeup{
+    box-shadow: 10px 10px 40px gray;
+    width: 70%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+}
+.skip-color2{
+    color: grey;
+}
+.footer-section{
+    background-color: rgba(2, 2, 15, 0.829);
+}
+p{
+    color: white;
 }
